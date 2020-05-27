@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github User Api</string>
+    <string name="search_label">Pencarian Pengguna Github</string>
+    <string name="detail_label">Detail Pengguna</string>
+    <string name="content_description_avatar">Deskripsi konten Avatar</string>
+    <string name="content_description_end_icon">Ikon pencarian</string>
+    <string name="menu_language_settings">Pengaturan Bahasa</string>
+    <string name="search_hint">Username</string>
+    <string name="txt_repository">Repositori</string>
+    <string name="txt_follower">Pengikut</string>
+    <string name="txt_following">Mengikuti</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+</resources>

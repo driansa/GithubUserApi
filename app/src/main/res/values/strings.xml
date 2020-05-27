@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github User Api</string>
+    <string name="search_label">Github User"'"s Search</string>
+    <string name="detail_label">Detail User</string>
+    <string name="content_description_avatar">Avatar content description</string>
+    <string name="content_description_end_icon">Search icon</string>
+    <string name="menu_language_settings">Language Settings</string>
+    <string name="search_hint">Username</string>
+    <string name="txt_repository">Repository</string>
+    <string name="txt_follower">Follower</string>
+    <string name="txt_following">Following</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+</resources>
